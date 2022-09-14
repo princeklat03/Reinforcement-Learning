@@ -14,5 +14,5 @@ Reinforcement Learning is tricky,so the expectation is to come up with sample fl
 **Business benefits**
 Up to 15% fuelcost can be saved by taking optimal path
 
-The pathway from source to destination is given by image below:
+The pathway from source to destination is given by image below (Mark 7 is the destination; 1-6 are source points):
 ![path](https://github.com/princeklat03/Reinforcement-Learning/blob/main/Path.png)
